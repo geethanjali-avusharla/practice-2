@@ -4,3 +4,5 @@ dog
 rabbit
 cat1
 bat2
+dog3
+rabbit4
